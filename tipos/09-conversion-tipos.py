@@ -1,0 +1,11 @@
+# x = input ("")
+
+# int()
+# str()
+# float()
+# bool()
+print(bool(""))
+print(bool("0"))
+print(bool("NONE"))
+print(bool(" "))
+print(bool(0))
