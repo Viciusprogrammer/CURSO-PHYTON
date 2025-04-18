@@ -1,5 +1,0 @@
-"""INTRODUCCION A FORMAT"""
-
-CHANCHITO = "happy"
-A = 12
-B = 13
